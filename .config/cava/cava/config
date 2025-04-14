@@ -1,0 +1,12 @@
+[input]
+method = pulse
+source = auto
+
+[color]
+gradient = 1
+gradient_color_1 = '#b4befe'
+gradient_color_2 = '#a6e3a1'
+
+[smoothing]
+waves = 1
+gravity = 200

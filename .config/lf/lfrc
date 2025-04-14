@@ -1,0 +1,10 @@
+# THEME
+set icons	# ENABLES THE ICONS
+set drawbox	# ENABLES THE BORDERS
+set roundbox 	# ROUNDS THE BORDERS
+set hidden 	# SHOWS HIDDEN FILES
+
+# EDITOR
+set previewer   ~/.config/lf/preview.sh
+set cleaner 	nvim
+set tabstop 	4
